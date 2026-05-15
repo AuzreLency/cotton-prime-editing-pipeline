@@ -60,6 +60,7 @@ Raw sequencing reads
 
 ```bash
 conda env create -f environment.yml
+```
 
 ---
 
@@ -69,6 +70,7 @@ conda env create -f environment.yml
 python pipeline/step01_design_pegRNA.py
 python pipeline/step03_ngs_editing_analysis.py
 Rscript pipeline/step04_efficiency_statistics.R
+```
 
 ---
 
