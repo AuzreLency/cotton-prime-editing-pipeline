@@ -1,0 +1,11 @@
+name: cotton-pe
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - pandas
+  - numpy
+  - biopython
+  - matplotlib
+  - scikit-learn
+  - jupyter
