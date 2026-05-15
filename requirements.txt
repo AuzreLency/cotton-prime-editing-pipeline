@@ -1,0 +1,9 @@
+pandas
+numpy
+biopython
+matplotlib
+scikit-learn
+jupyter
+seaborn
+plotly
+openai
